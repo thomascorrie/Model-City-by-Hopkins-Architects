@@ -834,13 +834,13 @@ files = [
 
 [[package]]
 name = "specklepy"
-version = "2.19.3"
+version = "2.19.5"
 description = "The Python SDK for Speckle 2.0"
 optional = false
 python-versions = "<4.0,>=3.8.0"
 files = [
-    {file = "specklepy-2.19.3-py3-none-any.whl", hash = "sha256:54099924086eaccd2226001f7ead73365a3b9509598b4b69e1c1eb082ffa54c0"},
-    {file = "specklepy-2.19.3.tar.gz", hash = "sha256:c8c179f773c20ff071410b569d858e75d9bdfb3bec77097606a5f1770780a3a1"},
+    {file = "specklepy-2.19.5-py3-none-any.whl", hash = "sha256:e789f24b33a4f41f0747a77c773606f5fc76939b31ec50092ff280e1f1b6869b"},
+    {file = "specklepy-2.19.5.tar.gz", hash = "sha256:3bf92cf5e6a0ac650dbdcbe0c11e550e153f4f6f19ac0c06190ac10bbc7f08fa"},
 ]
 
 [package.dependencies]
@@ -865,13 +865,13 @@ files = [
 
 [[package]]
 name = "typing-extensions"
-version = "4.12.1"
+version = "4.12.2"
 description = "Backported and Experimental Type Hints for Python 3.8+"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "typing_extensions-4.12.1-py3-none-any.whl", hash = "sha256:6024b58b69089e5a89c347397254e35f1bf02a907728ec7fee9bf0fe837d203a"},
-    {file = "typing_extensions-4.12.1.tar.gz", hash = "sha256:915f5e35ff76f56588223f15fdd5938f9a1cf9195c0de25130c627e4d597f6d1"},
+    {file = "typing_extensions-4.12.2-py3-none-any.whl", hash = "sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d"},
+    {file = "typing_extensions-4.12.2.tar.gz", hash = "sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8"},
 ]
 
 [[package]]
@@ -1242,4 +1242,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "7203c523d2888551cb25e52e0fc53ed9ed016e5b7f0240e5fe752f6b379ccf8d"
+content-hash = "24adc8317714837dd66e8f18c5665d907f45a97f059c7a41635d63f91cf8ce5f"
